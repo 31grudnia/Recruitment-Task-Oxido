@@ -6,5 +6,6 @@ load_dotenv()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")    
 
-MODEL = "gpt-4o"
+MODEL = "gpt-3.5-turbo"
 ARTICLES_STORAGE_PATH = "data/articles/"
+HTML_FILEPATH = "templates/"
