@@ -1,2 +1,14 @@
+# Enviroment var
 .env
+
+# virtual enviroment
 recruitment_task_oxido_venv/
+
+# cache
+__pycache__
+
+# markdown
+TODO.md
+
+# data storage
+data/articles/*
